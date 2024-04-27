@@ -9,10 +9,11 @@ header{
 
 hr{
     border: solid 5px;
+    margin-top: 10px;
 }
 
 nav {
-    background-color: yellow;
+    background-color: #FFBD17;
     padding: 20px 10px;
     text-align: center;
     border-bottom-left-radius: 15px;
@@ -23,7 +24,7 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
     font-size: 30px;
-    color: #333;
+    color: #232323;
     display: inline-block;
     border-right: 3px solid #ccc;
     padding-right: 65px; 
